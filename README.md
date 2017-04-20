@@ -1,4 +1,4 @@
-# Play Framework with Quill JDBC
+# Play Framework with Quill's async-postgres example
 
 
 Starter project using Play Framework 2.5 with [Quill](http://getquill.io/)
